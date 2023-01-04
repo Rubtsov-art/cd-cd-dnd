@@ -4,7 +4,7 @@
   "description": "simple dnd",
   "main": "src/index.js",
   "scripts": {
-    "webpack": "webpack -w",
+    "webpack": "webpack",
     "start": "webpack serve"
   },
   "keywords": [
